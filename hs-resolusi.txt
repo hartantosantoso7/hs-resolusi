@@ -3,4 +3,4 @@ HS RESOLUSI
 -konsisten belajar IONIC
 -membuat website dengan framework laravel
 -membuat aplikasi android dengan ionic
--belajar machine learning
+-belajar flutter
