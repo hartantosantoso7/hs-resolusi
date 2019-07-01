@@ -2,3 +2,5 @@ HS RESOLUSI
 -konsisten belajar GIT
 -konsisten belajar IONIC
 -membuat website dengan framework laravel
+-membuat aplikasi android dengan ionic
+-belajar machine learning
