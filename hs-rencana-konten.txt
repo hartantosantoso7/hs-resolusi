@@ -1,0 +1,6 @@
+RENCANA KONTEN
+-Laravel
+-Ionic
+-Java
+-phyton
+-website
