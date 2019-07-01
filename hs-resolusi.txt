@@ -1,0 +1,4 @@
+HS RESOLUSI
+-konsisten belajar GIT
+-konsisten belajar IONIC
+-membuat website dengan framework laravel
